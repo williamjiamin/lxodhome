@@ -1,0 +1,13 @@
+{
+  "name": "lxodhome",
+  "version": "1.0.0",
+  "description": "The copyrighted code made by William Jiamin from lexueoude.com . The framework of LXODHome-a chatting and micro-blogging app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "William Jiamin from lexueoude.com",
+  "license": "ISC"
+}
